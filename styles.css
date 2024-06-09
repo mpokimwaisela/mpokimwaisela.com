@@ -43,6 +43,16 @@ section#home {
     text-align: center;
 }
 
+.profile-pic {
+    display: block;
+    margin: 0 auto 1rem;
+    width: 192px;
+    height: 192px;
+    border-radius: 5%;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
 footer {
     text-align: center;
     padding: 1rem 0;
